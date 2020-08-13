@@ -3,7 +3,6 @@
 
 # Demo 
 
-See Demo here : https://itsksaurabh.github.io/Guess-The-Color-Game/index.html
 
 <p align="center">
 <img src="./assets/captured.gif" />
